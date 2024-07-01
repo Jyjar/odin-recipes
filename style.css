@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(189, 167, 123);
+}
+
+
+.title {
+    text-align: center;
+    font-size: 45px;
+}
+
+* {
+    font-family: Arial;
+}
+
+.recipies {
+    font-size: 25px;
+}
+
+.white-background {
+    background-color: white;
+    margin-bottom: 10px;
+    width: 500px;
+}
